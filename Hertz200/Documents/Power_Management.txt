@@ -1,0 +1,10 @@
+Sim68  MAX = 40mA  
+
+Sim7020E MAX Instantanous = 800mA @2.5V
+
+STM32L431 MAX = 150mA
+
+HT221 MAX = 10mA
+
+If the System is running in its full capacity,
+	Total Current = 1.2A of Current.

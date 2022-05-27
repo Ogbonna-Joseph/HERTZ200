@@ -1,0 +1,11 @@
+SIM68M
+https://www.simcom.com/product/SIM68M.html
+
+SIM7020E
+https://www.simcom.com/product/SIM7020X.html
+
+STM32L431
+https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L431CCU6/6621815?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wDMiIKkGO%2BRkpYADFdbRAIuIAM6oAtvTgAbACyMaQA
+
+Battery ---  Lithium thionyl chloride
+https://www.jauch.com/blog/en/advantages-and-special-features-of-lithium-thionyl-chloride-batteries/
