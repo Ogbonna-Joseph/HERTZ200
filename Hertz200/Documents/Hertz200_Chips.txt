@@ -9,3 +9,8 @@ https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L431CCU6/6621
 
 Battery ---  Lithium thionyl chloride
 https://www.jauch.com/blog/en/advantages-and-special-features-of-lithium-thionyl-chloride-batteries/
+
+BQ24195RGER - Battery IC
+https://www.ti.com/product/BQ25672
+Distributor
+http://www.ameya360.com/product/423998?count=3000&locale=en_US&utm_campaign=FindChips&utm_medium=submitRfq&utm_source=findChips&utm_content=sisihotoffer_cind_stock&utm_term=BQ24195RGER

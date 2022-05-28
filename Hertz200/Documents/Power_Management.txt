@@ -1,10 +1,22 @@
-Sim68  MAX = 40mA  
+Sim68  MAX = 30mA        Sleep mode  =   14uA
 
-Sim7020E MAX Instantanous = 800mA @2.5V
+Sim7020E MAX Instantanous = 800mA @2.5V   Sleep mode = 3.4uA
 
-STM32L431 MAX = 150mA
-
-HT221 MAX = 10mA
+STM32L431 MAX = 140mA        Sleep Mode = 0.3uA
 
 If the System is running in its full capacity,
-	Total Current = 1.2A of Current.
+	Total Current = 970mA of Current.
+
+If the system is running in sleep mode in the worst case
+        Total current = 0.7mA
+
+
+if a 5AH battery is used with an efficiency of 80%
+	battery efficiency = 4AH
+	for sleep mode it last for 150,000hrs
+	Sleep mode battery time = 150,000hrs
+	Sleep Mode in Days = 6,250days
+	At least (5)years.
+
+Battery of 1C rating
+
