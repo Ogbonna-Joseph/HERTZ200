@@ -14,3 +14,5 @@ BQ24195RGER - Battery IC
 https://www.ti.com/product/BQ25672
 Distributor
 http://www.ameya360.com/product/423998?count=3000&locale=en_US&utm_campaign=FindChips&utm_medium=submitRfq&utm_source=findChips&utm_content=sisihotoffer_cind_stock&utm_term=BQ24195RGER
+
+ESDA6V1W5 -- ESD diode for SIMCARD Connector
