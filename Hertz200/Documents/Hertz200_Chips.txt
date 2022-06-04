@@ -20,3 +20,4 @@ ESDA6V1W5 -- ESD diode for SIMCARD Connector
 GSM/GPRS/3G L-shaped antenna
 https://hub360.com.ng/product/gsm-gprs-3g-l-shaped-antenna/
 
+TXB0102DCUT -- Voltage Level Shifter

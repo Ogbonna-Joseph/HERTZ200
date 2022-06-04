@@ -201,7 +201,7 @@
       (reference "C?") (unit 1) (value "4.7uF") (footprint "")
     )
     (path "/c31cb462-a5f6-4ba3-b969-217275299554/cc318202-0f37-450c-976e-00be468fc756"
-      (reference "C?") (unit 1) (value "F") (footprint "")
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
     )
     (path "/feb38b83-6d1c-4038-a568-147252bfbe12/dbd40e82-8eac-4561-aed1-5a215b72798b"
       (reference "C?") (unit 1) (value "100uF") (footprint "")

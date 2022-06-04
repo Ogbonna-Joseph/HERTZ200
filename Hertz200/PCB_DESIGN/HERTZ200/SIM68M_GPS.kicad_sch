@@ -1076,7 +1076,7 @@
     (property "Reference" "C?" (id 0) (at 180.34 72.3962 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "F" (id 1) (at 180.34 74.9362 0)
+    (property "Value" "0.1uF" (id 1) (at 180.34 74.9362 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 177.8 73.66 0)
