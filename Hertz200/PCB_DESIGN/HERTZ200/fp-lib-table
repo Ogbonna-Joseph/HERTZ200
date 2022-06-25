@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "BQ24195RGER")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/BQ24195RGER")(options "")(descr ""))
+  (lib (name "HTS221")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/HTS221")(options "")(descr ""))
+  (lib (name "CDBU0130-HF")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/CDBU0130-HF")(options "")(descr ""))
+  (lib (name "DCJ250-10-A_XX-X_REVA")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/DCJ250-10-A_XX-X_REVA")(options "")(descr ""))
+  (lib (name "TS04-66-75-BK-160-SMT")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TS04-66-75-BK-160-SMT")(options "")(descr ""))
+)
