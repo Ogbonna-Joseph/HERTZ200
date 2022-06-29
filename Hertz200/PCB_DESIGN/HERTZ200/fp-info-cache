@@ -1,4 +1,4 @@
-20116009881543748
+20134222581434083
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,20 @@ audio belton reverb
 0
 7
 7
+BD33HC5MEFJ-ME2
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+BD33HC5MEFJ-ME2
+SOIC127P600X100-8N
+HTSOP-J8.
+Integrated Circuit
+0
+8
+8
 BQ24195RGER
 QFN50P400X400X100-25N
 
@@ -2372,6 +2386,13 @@ speaker CUI
 0
 2
 2
+CDBU0130-HF
+DIOM1709X85N
+
+
+0
+2
+2
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -2505,6 +2526,13 @@ Gauge Massstab 100mm SilkScreenTop Type 2
 0
 0
 0
+Capacitor_SMD
+CAPMP7343X400N
+
+
+0
+2
+2
 Capacitor_SMD
 CP_Elec_3x5.3
 SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
@@ -50161,6 +50189,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DCJ250-10-A_XX-X_REVA
+GCT_DCJ250-10-A_XX-X_REVA
+
+
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -52065,6 +52100,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESDA6V1W5
+SOT65P210X110-5N
+
+
+0
+5
+5
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -52933,6 +52975,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+HTS221
+XDCR_HTS221
+
+
+0
+6
+6
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -57581,6 +57630,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LIB_503960-0696
+5039600696
+503960-0696
+Connector
+0
+14
+14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -78609,6 +78665,13 @@ SIM68M
 0
 18
 18
+SMA_CONNECTOR
+LPRS_SMA_CONNECTOR
+
+
+0
+5
+5
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -80072,6 +80135,20 @@ Logo WEEE
 0
 0
 0
+T491X107K025AT
+CAPMP7343X400N
+
+
+0
+2
+2
+TS04-66-75-BK-160-SMT
+SW_TS04-66-75-BK-160-SMT
+
+
+0
+4
+4
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

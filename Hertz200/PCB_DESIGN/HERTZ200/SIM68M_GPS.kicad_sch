@@ -466,7 +466,6 @@
     )
   )
 
-
   (junction (at 100.33 119.38) (diameter 0) (color 0 0 0 0)
     (uuid 0d9d6de5-04bd-449b-b3d5-6d1f8af0bc51)
   )
@@ -923,7 +922,7 @@
     (property "Value" "SMA_CONNECTOR" (id 1) (at 233.68 81.5339 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 228.6 78.74 0)
+    (property "Footprint" "SMA_CONNECTOR:LPRS_SMA_CONNECTOR" (id 2) (at 228.6 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 228.6 78.74 0)
