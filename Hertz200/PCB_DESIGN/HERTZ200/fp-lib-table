@@ -10,4 +10,6 @@
   (lib (name "T491X107K025AT")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/T491X107K025AT")(options "")(descr ""))
   (lib (name "LIB_503960-0696")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/LIB_503960-0696")(options "")(descr ""))
   (lib (name "503960-0696")(type "KiCad")(uri "C:/Users/HP/Desktop/website2/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "TS04-66-75-BK-160-SMT-pcb-part-libraries")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TS04-66-75-BK-160-SMT-pcb-part-libraries")(options "")(descr ""))
+  (lib (name "TL3305AF160QG")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TL3305AF160QG")(options "")(descr ""))
 )
