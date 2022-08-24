@@ -12,4 +12,7 @@
   (lib (name "503960-0696")(type "KiCad")(uri "C:/Users/HP/Desktop/website2/SamacSys_Parts.pretty")(options "")(descr ""))
   (lib (name "TS04-66-75-BK-160-SMT-pcb-part-libraries")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TS04-66-75-BK-160-SMT-pcb-part-libraries")(options "")(descr ""))
   (lib (name "TL3305AF160QG")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TL3305AF160QG")(options "")(descr ""))
+  (lib (name "TAR5S33")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/TAR5S33")(options "")(descr ""))
+  (lib (name "105164-0001")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/105164-0001")(options "")(descr ""))
+  (lib (name "ESD9L5")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/ESD9L5.0ST5G")(options "")(descr ""))
 )
