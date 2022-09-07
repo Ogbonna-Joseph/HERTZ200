@@ -10,7 +10,7 @@
       "pads": 0.5899999737739563,
       "tracks": 0.5799999833106995,
       "vias": 0.7300000190734863,
-      "zones": 0.6800000071525574
+      "zones": 0.44999998807907104
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -63,7 +63,7 @@
       36
     ],
     "visible_layers": "ffcffcf_fffffff9",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "HERTZ200.kicad_prl",

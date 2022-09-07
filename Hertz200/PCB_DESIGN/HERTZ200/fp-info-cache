@@ -1,4 +1,4 @@
-20144177688775179
+20152487480634760
 105164-0001
 MOLEX_105164-0001
 
@@ -57658,6 +57658,20 @@ Connector
 0
 14
 14
+MP2636GR-P
+IC_MP2636
+
+
+0
+34
+34
+MP2636GR-P
+IC_MP2636GR-P
+
+
+0
+34
+34
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -84279,6 +84293,20 @@ test point THT pad
 0
 1
 1
+Tmp451
+SON50P250X200X80-8N
+DQW0008A
+Integrated Circuit
+0
+8
+8
+Tmp451
+TMP451
+
+
+0
+9
+9
 Transformer_SMD
 Pulse_P0926NL
 SMT Gate Drive Transformer, 1:1:1, 8.0x6.3x5.3mm (https://productfinder.pulseeng.com/products/datasheets/SPM2007_61.pdf)
@@ -84965,6 +84993,13 @@ igbt diode module
 0
 25
 25
+USB4125-GF-A-0190_REVA2
+GCT_USB4125-GF-A-0190_REVA2
+
+
+0
+10
+10
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

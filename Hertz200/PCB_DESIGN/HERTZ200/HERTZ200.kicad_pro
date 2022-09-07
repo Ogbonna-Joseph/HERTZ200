@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.208
+          "min_clearance": 0.0508
         }
       },
       "diff_pair_dimensions": [
@@ -124,8 +124,8 @@
         "max_error": 0.001,
         "min_clearance": 0.127,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.2032,
-        "min_hole_to_hole": 0.2032,
+        "min_hole_clearance": 0.127,
+        "min_hole_to_hole": 0.19999999999999998,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
@@ -140,6 +140,7 @@
       "track_widths": [
         0.0,
         0.1524,
+        0.1778,
         0.2032,
         0.254,
         0.381,
@@ -455,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "HERTZ200.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -516,8 +517,8 @@
       "SIM68M_GPS"
     ],
     [
-      "1d155bda-0e98-4d29-8020-0ec506117ba0",
-      "BQ24195_SMPS"
+      "02f76d86-e71b-4a2c-b288-a8b84a023321",
+      "MP2636"
     ]
   ],
   "text_variables": {}

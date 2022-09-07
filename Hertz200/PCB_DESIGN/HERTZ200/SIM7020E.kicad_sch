@@ -1632,7 +1632,7 @@
         (effects (font (size 1.27 1.27)))
       )
       (symbol "T491X107K025AT_0_0"
-        (arc (start -2.4638 -1.8542) (mid 1.3004 -8.9251) (end 0 -1.016)
+        (arc (start -2.4638 -1.8542) (mid 1.3147 -8.9203) (end 0 -1.016)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )
@@ -1644,7 +1644,7 @@
           (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type outline))
         )
-        (arc (start 0 -0.9906) (mid -1.3189 -8.8986) (end 2.4892 -1.8542)
+        (arc (start 0 -0.9906) (mid -1.346 -8.8892) (end 2.4892 -1.8542)
           (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type none))
         )
@@ -2010,7 +2010,6 @@
     )
   )
 
-
   (junction (at 147.32 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 1a7de7bf-a2d7-436a-ae3a-ada4a9c4d94d)
   )
@@ -2109,7 +2108,7 @@
   )
 
   (no_connect (at 262.89 123.19) (uuid 05e7596f-844f-4ccf-ae70-032529c45b51))
-  (no_connect (at 262.89 125.73) (uuid 05e7596f-844f-4ccf-ae70-032529c45b51))
+  (no_connect (at 262.89 125.73) (uuid 05e7596f-844f-4ccf-ae70-032529c45b52))
   (no_connect (at 46.99 72.39) (uuid 0d5f54a1-fd2f-45a5-aabc-73386e1d2010))
   (no_connect (at 46.99 39.37) (uuid 1315e9c6-f38f-40be-aa47-1ab73cefb8f8))
   (no_connect (at 46.99 41.91) (uuid 1315e9c6-f38f-40be-aa47-1ab73cefb8f9))
@@ -3414,7 +3413,7 @@
     (property "Reference" "Q2" (id 0) (at 64.77 168.9099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BC847" (id 1) (at 64.77 171.4499 0)
+    (property "Value" "BC847-T" (id 1) (at 64.77 171.4499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 64.77 172.085 0)
