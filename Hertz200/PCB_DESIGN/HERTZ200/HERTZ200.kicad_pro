@@ -456,8 +456,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "HERTZ200.step",
-      "vrml": ""
+      "step": "../../../../../../Documents/STEP 3D MODEL/HERTZ200/HERTZ200.step",
+      "vrml": "../../../../../../Documents/STEP 3D MODEL/HERTZ200/HERTZ200.wrl"
     },
     "page_layout_descr_file": ""
   },
