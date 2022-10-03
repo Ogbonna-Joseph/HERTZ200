@@ -13,4 +13,5 @@
   (lib (name "MP2636GR-P")(type "Legacy")(uri "C:/Users/HP/Documents/Kicad 3D Model/MP2636GR-P/MP2636GR-P.lib")(options "")(descr ""))
   (lib (name "BQ29701DSET")(type "Legacy")(uri "C:/Users/HP/Documents/Kicad 3D Model/BQ29701DSET/BQ29701DSET.lib")(options "")(descr ""))
   (lib (name "CSD16406Q3")(type "Legacy")(uri "C:/Users/HP/Documents/Kicad 3D Model/CSD16406Q3/CSD16406Q3.lib")(options "")(descr ""))
+  (lib (name "ECS-80-18-5G3X-JGN-TR")(type "Legacy")(uri "C:/Users/HP/Documents/Kicad 3D Model/ECS-80-18-5G3X-JGN-TR/ECS-80-18-5G3X-JGN-TR.lib")(options "")(descr ""))
 )

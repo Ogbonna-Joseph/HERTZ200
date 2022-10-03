@@ -21,4 +21,5 @@
   (lib (name "744311150")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/744311150")(options "")(descr ""))
   (lib (name "BQ29701DSET")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/BQ29701DSET")(options "")(descr ""))
   (lib (name "CSD16406Q3")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/CSD16406Q3")(options "")(descr ""))
+  (lib (name "ECS-80-18-5G3X-JGN-TR")(type "KiCad")(uri "C:/Users/HP/Documents/Kicad 3D Model/ECS-80-18-5G3X-JGN-TR")(options "")(descr ""))
 )
